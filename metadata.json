@@ -1,0 +1,6 @@
+{
+  "name": "Multi-Tenant Gym Management",
+  "description": "A Multi-Tenant Gym Management system with simulated role-based views for Admin, Gym Owners, Trainers, and Members.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
